@@ -37,3 +37,5 @@ Together offers serverless endpoints for embedding models, we'll be using the [B
 ### ❓ Question #1: 
 
 What is the difference between serverless and dedicated endpoints?
+
+#### ANSWER: Serverless endpoints are pay-per-use with shared resources and automatic scaling, while dedicated endpoints require upfront compute credits but provide exclusive resources with consistent performance and manual control over deployment and shutdown.
